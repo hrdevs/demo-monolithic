@@ -1,0 +1,6 @@
+@demo_monolithic_HostAddress = http://localhost:5051
+
+GET {{demo_monolithic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

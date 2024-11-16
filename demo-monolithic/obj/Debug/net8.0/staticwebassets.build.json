@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VddGd9TIAAc7EMa40ITUhwx9817M//6UDnzjsS4N5Ks=",
+  "Source": "demo-monolithic",
+  "BasePath": "_content/demo-monolithic",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

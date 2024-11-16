@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|c:\\users\\hp prodesk\\desktop\\projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C250A4EC-2BAC-481B-B7DA-9378B061A065}|demo-monolithic\\demo-monolithic.csproj|solutionrelative:demo-monolithic\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "demo-monolithic\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:23:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "demo-monolithic\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:20:31.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "demo-monolithic\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:09:21.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "demo-monolithic\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:06:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Models\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Models\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Models\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "demo-monolithic\\Models\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:08:33.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "demo-monolithic\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:59:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\Models\\Employee.cs",
+              "RelativeToolTip": "demo-monolithic\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:49:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "demo-monolithic\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP Prodesk\\Desktop\\Projects\\demo-monolithic\\demo-monolithic\\demo-monolithic\\ApplicationDbContext.cs",
+              "RelativeToolTip": "demo-monolithic\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:48:07.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
